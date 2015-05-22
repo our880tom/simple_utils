@@ -1,4 +1,4 @@
-package com.zhaoliang.date;
+package com.zhaoliang.data;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
